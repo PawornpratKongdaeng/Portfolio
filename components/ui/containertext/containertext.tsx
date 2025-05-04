@@ -3,7 +3,7 @@ import { ContainerTextFlip } from "@/components/ui/containertext/container-text-
 export function ContainerTextFlipDemo() {
   return (
     <ContainerTextFlip
-      words={["Frontend Developer", "UX/UI Designer", "Fullstack Developer", "DevOps Engineer"]}
+      words={["Frontend Developer", "UX/UI Designer", "DevOps Engineer"]}
     />
   );
 }
